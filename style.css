@@ -16,6 +16,8 @@
       background-color: #556890;
       font-weight: bold;
       text-decoration: none;
+      padding: 5px;
+      border-radius: 5px;
     }
 
     /* visited link */
@@ -24,6 +26,8 @@
       background-color: #f4b9b8;
       font-weight: bold;
       text-decoration: none;
+      padding: 5px;
+      border-radius: 5px;
     }
 
     /* mouse over link */
@@ -32,6 +36,8 @@
       background-color: #feecc0;
       font-weight: bold;
       text-decoration: underline;
+      padding: 5px;
+      border-radius: 5px;
     }
 
     /* selected link */
@@ -40,6 +46,8 @@
       background-color: #f4b9b8;
       font-weight: bold;
       text-decoration: underline;
+      padding: 5px;
+      border-radius: 5px;
     }
 
     ul {
@@ -66,5 +74,9 @@
       color: #1f2020;
       margin: 5px;
       border-radius: 2px;
+    }
+
+    nav {
+      background-color: #bc8180;
     }
   }
