@@ -78,5 +78,14 @@
 
     nav {
       background-color: #bc8180;
+      padding: 15px;;
+      
     }
+
+    footer {
+      background-color: #8094bf;
+      padding: 15px
+    }
+
+   
   }
