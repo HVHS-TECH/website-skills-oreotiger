@@ -1,8 +1,9 @@
  body {
-    background-color: #feecc0;
+    background-color: #7796CB;
     font: raleway, #1f2020;
+    
     img {
-      border: 4px solid #556890;
+      border: 6px solid #576490;
       padding: 0px;
       border-radius: 20px;
     
@@ -13,7 +14,7 @@
         /* unvisited link */
     a:link {
       color:#1f2020;
-      background-color: #556890;
+      background-color: #576490;
       font-weight: bold;
       text-decoration: none;
       padding: 5px;
@@ -23,7 +24,7 @@
     /* visited link */
     a:visited {
       color:#1f2020;
-      background-color: #f4b9b8;
+      background-color: #D1D2F9;
       font-weight: bold;
       text-decoration: none;
       padding: 5px;
@@ -33,7 +34,7 @@
     /* mouse over link */
     a:hover {
       color:#1f2020;
-      background-color: #feecc0;
+      background-color: #C9CAD9;
       font-weight: bold;
       text-decoration: underline;
       padding: 5px;
@@ -43,7 +44,7 @@
     /* selected link */
     a:active {
       color: #556890;
-      background-color: #f4b9b8;
+      background-color: #D1D2F9;
       font-weight: bold;
       text-decoration: underline;
       padding: 5px;
@@ -51,41 +52,56 @@
     }
 
     ul {
-      background: #556890;
+      background: #576490;
       padding: 20px;
       border-radius: 20px;
     }
     
     ul li {
-      background: #f4b9b8;
+      background: #D1D2F9;
       color: #1f2020;
       margin: 5px;
       border-radius: 2px;
     }
 
     ol {
-      background: #556890;
+      background: #576490;
       padding: 20px;
       border-radius: 20px;
     }
     
     ol li {
-      background: #f4b9b8;
+      background: #D1D2F9;
       color: #1f2020;
       margin: 5px;
       border-radius: 2px;
     }
 
     nav {
-      background-color: #bc8180;
-      padding: 15px;;
-      
+      background-color: #A3BCF9;
+      padding: 10px;
+   
+   
     }
 
     footer {
-      background-color: #8094bf;
-      padding: 15px
+      background-color: #C9CAD9;
+      padding: 10px
+
+    
     }
 
-   
+    header {
+      background-color: #C9CAD9;
+      padding: 10px
+    
+    
+    }
+
+    main {
+      background-color: #C9CAD9;
+      padding: 10px
+    
+    
+    }
   }
